@@ -1,4 +1,4 @@
-# longdo-map-rpg-game
+# longdo-map-rpg-game-example
 
 ## Project setup
 ```
